@@ -4,7 +4,7 @@ Excel assignment project using formulas,macros, and conditional formatting for b
 
 ## 📌 Project Overview
 
-This project is based on Microsoft Excel and includes data cleaning, formatting, analysis, and visualization.  
+This project is based on Microsoft Excel and includes data cleaning, formatting.  
 The main purpose of this assignment is to practice Excel skills such as formulas, charts, pivot tables, sorting, filtering, and basic data analysis.
 
 ## 📂 Files Included
